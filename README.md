@@ -16,6 +16,7 @@
 - Numpy
 - Torch
 - Rede Neural utilizada: MobileNetV2
+- Threading
 
 #### Passos para executar o experimento 
 - Instale o Python 3.10
@@ -23,6 +24,7 @@
 - Instale o OpenCv
 - Instale o numpy
 - Instale o vsCode
+- Instale o Threading
 
 #### Como funciona
 Ao executar este projeto, automaticamente irá abrir a câmera de seu dispositivo, logo para que a leitura da sua face seja feita em tempo real,
