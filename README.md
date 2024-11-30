@@ -10,9 +10,9 @@
 - José Aroldo
 
 #### Ferramentas utilizadas
-- YOLO
+- YOLOV3
 - OpenCV
-- Base de dados do Kaggle
+- Base de dados do Kaggle(face-mask-12k-images-dataset)
 - Numpy
 - Torch
 - Rede Neural utilizada: MobileNetV2
