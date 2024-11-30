@@ -1,7 +1,7 @@
 # Deteção de máscaras faciais 
 
 ## Atividade final de visão computacional
-- *Experimento baseado no artigo:* A Face Mask Detection Algorithm Based on YOLO
+*Experimento baseado no artigo:* A Face Mask Detection Algorithm Based on YOLO
 
 #### Equipe
 - Valmir Júnior
@@ -23,4 +23,3 @@
 - Instale o OpenCv
 - Instale o numpy
 - Instale o vsCode
-- 
