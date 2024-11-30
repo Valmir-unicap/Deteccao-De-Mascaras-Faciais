@@ -1,6 +1,6 @@
 # Deteção de máscaras faciais 
 
-## Atividade final de visão computacional
+## Atividade Final - Visão computacional
 *Experimento baseado no artigo:* A Face Mask Detection Algorithm Based on YOLO
 
 #### Equipe
@@ -23,3 +23,7 @@
 - Instale o OpenCv
 - Instale o numpy
 - Instale o vsCode
+
+#### Como funciona
+Ao executar este projeto, automaticamente irá abrir a câmera de seu dispositivo, logo para que a leitura da sua face seja feita em tempo real,
+você deve ficar parado, a frente da sua câmera do seu dispositivo. Desse modo, a detecção irá informar se sua face está utilizando máscara ou não.
